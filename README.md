@@ -1,0 +1,1 @@
+En el presente repositorio se presenta el proyecto final de la asignatura Matemáticas del Aprendizaje de Máquina, este se constituye de un documento estilo artículo que describe el mismo, las diapositivas con las cuales se realizó su exposición y un video exponiendo el mismo.
